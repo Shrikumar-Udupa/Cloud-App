@@ -2,3 +2,7 @@ total 8
 -rw-rw-r--. 1 ec2-user ec2-user 82 Apr 16 22:30 3.txt
 -rw-rw-r--. 1 ec2-user ec2-user  0 Apr 17 19:28 file1.txt
 -rw-rw-r--. 1 ec2-user ec2-user 51 Apr 16 16:56 mycron
+-rw-rw-r--. 1 ec2-user ec2-user 51 Apr 16 16:56 mycron
+-rw-rw-r--. 1 ec2-user ec2-user 51 Apr 16 16:56 mycron
+-rw-rw-r--. 1 ec2-user ec2-user 51 Apr 16 16:56 mycron
+-rw-rw-r--. 1 ec2-user ec2-user 51 Apr 16 16:56 mycron
