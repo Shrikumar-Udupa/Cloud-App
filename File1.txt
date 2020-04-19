@@ -9,3 +9,6 @@ total 8
 
 EDIT FROM REMOTE:
 -rw-rw-r--. 1 ec2-user ec2-user 51 Apr 16 16:56 REMOTE
+
+EDIT FROM LOCAL:
+-rw-rw-r--. 1 ec2-user ec2-user 51 Apr 16 16:56 LOCAL
