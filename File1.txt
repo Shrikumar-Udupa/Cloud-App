@@ -14,9 +14,14 @@ EDIT FROM LOCAL:
 -rw-rw-r--. 1 ec2-user ec2-user 51 Apr 16 16:56 LOCAL
 
 
+
 EDIT FROM DEVELOPMENT
 -rw-rw-r--. 1 ec2-user ec2-user 51 Apr 16 16:56 DEVELOPMENT
 
 EDIT FROM RELEASEV1.0.0
 -rw-rw-r--. 1 ec2-user ec2-user 51 Apr 16 16:56 Releasev1.0.0
+
+
+EDIT FROM PRODUCTION:
+-rw-rw-r--. 1 ec2-user ec2-user 51 Apr 16 16:56 PRODUCTION
 
