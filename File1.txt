@@ -13,10 +13,12 @@ EDIT FROM REMOTE:
 EDIT FROM LOCAL:
 -rw-rw-r--. 1 ec2-user ec2-user 51 Apr 16 16:56 LOCAL
 
-<<<<<<< HEAD
 EDIT FROM PRODUCTION:
 -rw-rw-r--. 1 ec2-user ec2-user 51 Apr 16 16:56 PRODUCTION
-=======
+
+DIT FROM RELEASEV1.0.0
+-rw-rw-r--. 1 ec2-user ec2-user 51 Apr 16 16:56 Releasev1.0.0
+
 EDIT FROM RELEASEV1.0.0
 -rw-rw-r--. 1 ec2-user ec2-user 51 Apr 16 16:56 Releasev1.0.0
->>>>>>> 4ebfdc8... RELASEV1.0.0
+
